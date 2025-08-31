@@ -1,5 +1,14 @@
 ## Mikah's Website
 
+
+# Mikah's First CS193 Homework
+- The teachers are great
+- I enjoy Computer Science
+- CS193 is easier than my other classes workload-wise
+- The seats in the theater room are very nice
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
